@@ -210,12 +210,7 @@ E-Commerce_return_analysis.ipynb
 
 <h2>📷 Dashboard Preview</h2>
 
-<p><i>Add your Power BI Dashboard Screenshot here.</i></p>
-
-<!-- Example -->
-<!--
-<img src="images/dashboard.png" width="100%">
--->
+<p><i> <img src="dashboard.png"  width="100%"></i></p>
 
 <hr>
 
